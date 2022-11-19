@@ -121,6 +121,7 @@ footer {
     text-align: center;
     padding-top: 10px;
     padding-bottom: 10px;
+    margin: auto;
 }
 
 footer div {
@@ -162,7 +163,7 @@ button:hover {
 }
 
 .promo-background {
-    background-image: url(/images/pizza.png);
+    background-image: url(/images/backgound.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
 }
